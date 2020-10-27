@@ -1,0 +1,8 @@
+django==3.1.2
+daphne==2.5.0
+Twisted[tls,http2]
+channels==2.4.0
+channels-redis==2.4.2
+websockets==8.1
+psutil==5.7.3
+aiohttp==3.7.1

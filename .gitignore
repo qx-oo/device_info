@@ -1,0 +1,11 @@
+.*
+!.gitignore
+*.log
+*.pot
+*.pyc
+venv/
+logs/
+db.sqlite3
+local_settings.py
+__pycache__
+*.bak
